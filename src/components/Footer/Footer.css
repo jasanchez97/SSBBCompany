@@ -1,0 +1,83 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100vw;
+}
+
+#tabuu {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  width: 30%;
+  height: 30%;
+  left: 30%;
+  z-index: 1;
+}
+
+.footer-background {
+  position: absolute;
+  width: 15em;
+  top: 12vw;
+  left: 42vw;
+  transform: perspective(100vw) rotateX(78.55deg) rotateZ(15deg);
+}
+
+.footer-main {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  margin-left: 20px;
+  justify-content: space-between;
+  width: 90vw;
+  gap: 50px;
+  z-index: 1;
+}
+
+.footer-img {
+  width: 7%;
+}
+
+.footer-css {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.2rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer-css1:hover {
+  color: rgb(148, 68, 240);
+}
+
+#footer-css2:hover {
+  color: rgb(148, 68, 240);
+}
+
+@media only screen and (min-width: 1px) and (max-width: 768px) {
+
+  .footer-container {
+    width: 97vw;
+  }
+
+  .footer-background {
+    width: 5em;
+    top: 52.50%;
+  }
+
+  .footer-main {
+    margin-left: 0;
+    gap: 0px;
+    width: 96vw;
+  }
+
+  .footer-css {
+    font-size: 0.48rem;
+  }
+
+  .footer-img {
+    display: none;
+  }
+}

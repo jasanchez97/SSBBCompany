@@ -1,0 +1,190 @@
+[
+  {
+    "nombre": "Mario",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Donkey-Kong",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Link",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Samus",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Samus-Zero",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Pikachu",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Yoshi",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Kirby",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Fox",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Zelda",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Sheik",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Peach",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Bowser",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Wario",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Diddy-Kong",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Ice-Climbers",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Entrenador-Pokémon",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Ike",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Lucas",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Meta-Knight",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Rey-Dedede",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Pit",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Olimar",
+    "categoria": "Iniciales"
+  },
+  {
+    "nombre": "Luigi",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Jigglypuff",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Ness",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Captain-Falcon",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Falco",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Ganondorf",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Marth",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Mr.Game-and-Watch",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Lucario",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Toon-Link",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Sonic",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "R.O.B.",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Wolf",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Snake",
+    "categoria": "Desbloqueables"
+  },
+  {
+    "nombre": "Master-Hand",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Crazy-Hand",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Rayquaza",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Floro-Piraña",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Duon",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Galleom",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Ridley",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Meta-Ridley",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Porky-Minch",
+    "categoria": "Jefes"
+  },
+  {
+    "nombre": "Tabuu",
+    "categoria": "Jefes"
+  }
+]

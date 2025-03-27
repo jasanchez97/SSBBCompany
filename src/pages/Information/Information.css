@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.information-background-mobile {
+  display: none;
+}
+
+.information-background {
+  position: fixed;
+  width: 102vw;
+  height: 101vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  z-index: 0;
+  left: -1vw;
+  top: -1vh;
+}
+
+.information-title {
+  position: relative;
+  left: 5vw;
+  width: 90vw;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #007bff;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-top: 10vh;
+  padding: 10px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+}
+
+.information-paragraph {
+  position: relative;
+  left: 4vw;
+  width: 90vw;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+  text-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0 #000,
+    -1.5px 1.5px 0 #000,
+    1.5px 1.5px 0 #000;
+  margin-bottom: 300px;
+  text-align: justify;
+}
+
+.information-button {
+  display: flex;
+  width: 35vw;
+  justify-content: center;
+  position: relative;
+  left: 30vw;
+  font-family: 'Press Start 2P', serif;
+  color: #f1faee;
+  font-size: 1.2vw;
+  text-align: center;
+  font-weight: bold;
+  padding: 0.8rem 2rem;
+  background-color: #ff6600;
+  border-radius: 30px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  white-space: nowrap;
+  border: 2px solid #ff6600;
+  cursor:pointer;
+  margin-bottom: 10em;
+}
+
+.information-button:hover {
+  background-color: #ff4c00;
+  color: #f1faee;
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+  border: 2px solid #f1faee;
+}
+
+@media only screen and (min-width: 1px) and (max-width: 768px) {
+
+  .information-background {
+    display: none;
+  }
+
+  .information-background-mobile {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    z-index: 0;
+    left: -1vw;
+    top: -1vh;
+  }
+
+  .information-container {
+    position: relative;
+    width: 95vw;
+    left: 0.10%;
+  }
+
+  .information-title {
+    left: 0%;
+    font-size: 1rem;
+    width: 89vw;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #2980b9;
+    text-shadow: 0 0 10px #2980b9;
+    line-height: 1.5;
+  }
+
+  .information-paragraph {
+    width: 95vw;
+    left: 0%;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+
+  .information-button{
+    left: 0%;
+    width: 75vw;
+    font-size: 0.6em;
+  }
+}

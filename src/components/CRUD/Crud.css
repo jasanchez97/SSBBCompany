@@ -1,0 +1,173 @@
+.crud-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  font-family: 'Press Start 2P', sans-serif;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form-group label {
+  font-size: 16px;
+  color: #3498db;
+  font-weight: 600;
+  margin-bottom: 5px;
+  letter-spacing: 1px;
+  text-align: center;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  font-size: 14px;
+  padding: 12px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 55px;
+  font-family: 'Press Start 2P', sans-serif;
+  background-color: #F0F0F0;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+  border-color: #ff9900;
+  box-shadow: 0 0 5px rgba(255, 153, 0, 0.6);
+}
+
+.form-group input:invalid,
+.form-group select:invalid,
+.form-group textarea:invalid {
+  border-color: #e74c3c;
+}
+
+.form-group input:valid,
+.form-group select:valid,
+.form-group textarea:valid {
+  border-color: #2ecc71;
+}
+
+.form-group .error-message {
+  font-size: 14px;
+  color: #e74c3c;
+  margin-top: 5px;
+}
+
+button {
+  display: flex;
+  position: relative;
+  left: 5.6vw;
+  padding: 12px 25px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #3498db;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #e74c3c;
+  transform: scale(1.05);
+}
+
+button:active {
+  background-color: #d35400;
+  transform: scale(1);
+}
+
+button:disabled {
+  background-color: #ccc;
+  color: #666;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.error-message {
+  display: block;
+  margin-top: 5px;
+  font-family: 'Press Start 2P', sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  color: red;
+}
+
+#edit-form .form-group {
+  margin-bottom: 20px;
+}
+
+#edit-form label,
+#edit-form input,
+#edit-form button {
+  font-family: 'Press Start 2P', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#edit-form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#edit-form button:hover {
+  background-color: #45a049;
+}
+
+.crud-table {
+  margin-top: 10vh;
+  width: 100vw;
+}
+
+.crud-table-header {
+  width: 100vw;
+}
+
+th {
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 4px black;
+}
+
+td {
+  width: 10vw;
+  margin-top: 3vh;
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 4px black;
+}
+
+.crud-action-button {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  left: -0.25vw;
+  gap: 30px;
+}
+
+@media only screen and (min-width: 1px) and (max-width: 768px) {
+  .crud-table {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+
+  button {
+    left: 33vw;
+  }
+
+  
+}

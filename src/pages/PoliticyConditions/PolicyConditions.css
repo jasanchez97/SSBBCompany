@@ -1,0 +1,53 @@
+.policyconditions-container {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    width: 99vw;
+}
+
+.policyconditions-title {
+    font-family: 'Press Start 2P', sans-serif;
+    width: 100vw;
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 1em;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.policyconditions-p {
+    text-indent: 3em;
+    text-align: justify;
+    width: 80vw;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    font-family: 'Press Start 2P', cursive;
+    color: #ffffff;
+    font-size: 24px;
+    font-style: italic;
+    line-height: 1.2;
+    text-shadow: 2px 2px 4px #000000;
+    left: 8em;
+    margin-bottom: 10em;
+}
+
+.policyconditions-p:hover {
+    color: #add8e6;
+    transition: color 0.3s ease;
+}
+
+#conditions {
+    margin-top: 200px;
+}
+
+@media only screen and (min-width: 1px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+}
