@@ -1,0 +1,148 @@
+#gallery-title {
+  width: 100vw;
+  font-family: 'Press Start 2P', sans-serif;
+  color: #FFD700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 30px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+}
+
+#gallery-p {
+  width: 100vw;
+  font-family: 'Press Start 2P', sans-serif;
+  color: #FFD700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+.gallery-grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding: 20px;
+}
+
+.gallery-card {
+  background-color: #C5CAE9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+}
+
+.gallery-card img {
+  width: 100%;
+  height: 25vh;
+  object-fit: contain;
+  border-radius: 10px 10px 0 0;
+}
+
+.gallery-grid-container-title {
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Press Start 2P', sans-serif;
+  color: #FFD700;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+  margin-top: 20%;
+}
+
+.gallery-card h2 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-family: 'Press Start 2P', sans-serif;
+  color: #FFD700;
+  text-shadow: 2px 2px 0 #000;
+  border-bottom: 2px solid #FF9900;
+}
+
+.home-grid-container-title {
+  font-family: 'Press Start 2P', sans-serif;
+}
+
+.home-grid-container {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 10px;
+  padding: 20px;
+  grid-auto-rows: 100vh;
+  justify-content: center;
+}
+
+.home-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 10px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.home-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.home-card h2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  color: white;
+  text-shadow:
+    -2px -2px 0px black,
+    2px -2px 0px black,
+    -2px 2px 0px black,
+    2px 2px 0px black;
+  text-align: center;
+  margin-top: 10px;
+}
+
+@media only screen and (min-width: 1px) and (max-width: 768px) {
+
+  .gallery-grid-container-title {
+    position: relative;
+    left: -1%;
+    width: 96.5vw;
+    font-size: 1em;
+  }
+
+  .gallery-grid-container {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .gallery-card {
+    width: 71vw;
+    background-color: transparent;
+    border: 0px;
+    box-shadow: none;
+  }
+
+  .gallery-card img {
+    width: 73vw;
+    height: 25vh;
+    object-fit: contain;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .gallery-card h2 {
+    width: 70vw;
+    font-size: 0.8em;
+  }
+
+  #scenarios {
+    width: 80vw;
+  }
+}

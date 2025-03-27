@@ -1,0 +1,166 @@
+[
+    {
+      "nombre": "Battlefield",
+      "serie": "Super Smash Bros."
+    },
+    {
+      "nombre": "FinalDestination",
+      "serie": "Super Smash Bros."
+    },
+    {
+      "nombre": "DelfinoPlaza",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "Luigi'sMansion",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "MushroomyKingdom",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "MarioCircuit",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "RumbleFalls",
+      "serie": "Donkey Kong"
+    },
+    {
+      "nombre": "TheBridgeOfEldin",
+      "serie": "The Legend of Zelda"
+    },
+    {
+      "nombre": "ThePirateShip",
+      "serie": "The Legend of Zelda"
+    },
+    {
+      "nombre": "Norfair",
+      "serie": "Metroid"
+    },
+    {
+      "nombre": "FrigateOrpheon",
+      "serie": "Metroid"
+    },
+    {
+      "nombre": "Yoshi'sIsland",
+      "serie": "Yoshi"
+    },
+    {
+      "nombre": "BattleshipHalberd",
+      "serie": "Kirby"
+    },
+    {
+      "nombre": "LylatCruise",
+      "serie": "Star Fox"
+    },
+    {
+      "nombre": "PokémonStadium2",
+      "serie": "Pokémon"
+    },
+    {
+      "nombre": "SpearPillar",
+      "serie": "Pokémon"
+    },
+    {
+      "nombre": "PortTownAeroDive",
+      "serie": "F-Zero"
+    },
+    {
+      "nombre": "CastleSiege",
+      "serie": "Kid Icarus"
+    },
+    {
+      "nombre": "WarioWare",
+      "serie": "WarioWare"
+    },
+    {
+      "nombre": "DistantPlanet",
+      "serie": "Pikmin"
+    },
+    {
+      "nombre": "SmashVille",
+      "serie": "Animal Crossing"
+    },
+    {
+      "nombre": "NewPorkCity",
+      "serie": "EarthBound"
+    },
+    {
+      "nombre": "TheSummit",
+      "serie": "Ice Climber"
+    },
+    {
+      "nombre": "Skyworld",
+      "serie": "Kid Icarus"
+    },
+    {
+      "nombre": "75m",
+      "serie": "Donkey Kong"
+    },
+    {
+      "nombre": "MarioBros.",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "FlatZone2",
+      "serie": "Game & Watch"
+    },
+    {
+      "nombre": "PictoChat",
+      "serie": "Nintendo DS"
+    },
+    {
+      "nombre": "Hanenbow",
+      "serie": "Electroplankton"
+    },
+    {
+      "nombre": "ShadowMosesIsland",
+      "serie": "Metal Gear"
+    },
+    {
+      "nombre": "GreenHillZone",
+      "serie": "Sonic the Hedgehog"
+    },
+    {
+      "nombre": "Temple",
+      "serie": "The Legend of Zelda"
+    },
+    {
+      "nombre": "Yoshi'sIsland2",
+      "serie": "Yoshi"
+    },
+    {
+      "nombre": "JungleJapes",
+      "serie": "Donkey Kong"
+    },
+    {
+      "nombre": "Onett",
+      "serie": "EarthBound"
+    },
+    {
+      "nombre": "Corneria",
+      "serie": "Star Fox"
+    },
+    {
+      "nombre": "RainbowCruise",
+      "serie": "Super Mario"
+    },
+    {
+      "nombre": "GreenGreens",
+      "serie": "Kirby"
+    },
+    {
+      "nombre": "BigBlue",
+      "serie": "F-Zero"
+    },
+    {
+      "nombre": "Brinstar",
+      "serie": "Metroid"
+    },
+    {
+      "nombre": "PokémonStadium",
+      "serie": "Pokémon"
+    }
+  ]
