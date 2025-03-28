@@ -122,7 +122,6 @@ function Crud() {
             ))}
           </tbody>
         </table>
-
       )}
     </main>
   );
