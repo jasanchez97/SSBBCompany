@@ -1,190 +1,190 @@
 [
   {
     "nombre": "Mario",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Donkey-Kong",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Link",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Samus",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Samus-Zero",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Pikachu",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Yoshi",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Kirby",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Fox",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Zelda",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Sheik",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Peach",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Bowser",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Wario",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Diddy-Kong",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Ice-Climbers",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Entrenador-Pokémon",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Ike",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Lucas",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Meta-Knight",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Rey-Dedede",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Pit",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Olimar",
-    "categoria": "Iniciales"
+    "categoria": "Starters"
   },
   {
     "nombre": "Luigi",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Jigglypuff",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockabless"
   },
   {
     "nombre": "Ness",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Captain-Falcon",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Falco",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Ganondorf",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Marth",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Mr.Game-and-Watch",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Lucario",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Toon-Link",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Sonic",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "R.O.B.",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Wolf",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Snake",
-    "categoria": "Desbloqueables"
+    "categoria": "Unlockables"
   },
   {
     "nombre": "Master-Hand",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Crazy-Hand",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Rayquaza",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Floro-Piraña",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Duon",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Galleom",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Ridley",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Meta-Ridley",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Porky-Minch",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   },
   {
     "nombre": "Tabuu",
-    "categoria": "Jefes"
+    "categoria": "Bosses"
   }
 ]

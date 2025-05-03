@@ -11,84 +11,84 @@ function PolicyConditions() {
       <Header />
       <BackgroundVideo2 />
       <div className="policyconditions-container">
-        <h1 className="policyconditions-title">Política de Privacidad</h1>
+        <h1 className="policyconditions-title">Privacy Policy</h1>
         <p className="policyconditions-p">
-          Última actualización: 01-01-2025
+        Last updated: 01-01-2025
           <br />
           <br />
-          En Super Smash Bros Brawl Company, respetamos tu privacidad y nos comprometemos a proteger tus datos personales. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos tu información cuando usas nuestro videojuego.
+          At Super Smash Bros Brawl Company, we respect your privacy and are committed to protecting your personal data. This Privacy Policy describes how we collect, use, and protect your information when you use our video game.
         </p>
 
-        <h1 className="policyconditions-title">1. Información que recopilamos</h1>
-        <p className="policyconditions-p">Cuando juegas a Super Smash Bros Brawl, podemos recopilar la siguiente información:
+        <h1 className="policyconditions-title">1. Information We Collect</h1>
+        <p className="policyconditions-p">When you play Super Smash Bros Brawl, we may collect the following information:
           <br />
           <br />
-          Información personal: Nombre, dirección de correo electrónico, edad, etc.
+          Personal information: Name, email address, age, etc.
           <br />
           <br />
-          Información de uso: Datos sobre tu interacción con el videojuego, como estadísticas de juego, progreso, logros y preferencias.
+          Usage information: Data about your interaction with the game, such as game statistics, progress, achievements, and preferences.
           <br />
           <br />
-          Información técnica: Datos como la dirección IP, tipo de dispositivo, sistema operativo, navegador y detalles de conexión.</p>
+          Technical information: Data such as IP address, device type, operating system, browser, and connection details.</p>
 
-        <h1 className="policyconditions-title">2. Cómo utilizamos tu información</h1>
-        <p className="policyconditions-p">Utilizamos la información recopilada para:
+        <h1 className="policyconditions-title">2. How We Use Your Information</h1>
+        <p className="policyconditions-p">We use the collected information to:
           <br />
           <br />
-          Mejorar y personalizar tu experiencia de juego.
+          Improve and personalize your gaming experience.
           <br />
           <br />
-          Enviar actualizaciones, noticias y promociones relacionadas con el videojuego.
+          Send updates, news, and promotions related to the game.
           <br />
           <br />
-          Cumplir con nuestras obligaciones legales y de servicio.</p>
+          Fulfill our legal and service obligations.</p>
 
-        <h1 className="policyconditions-title">3. Compartir tu información</h1>
-        <p className="policyconditions-p">No vendemos, alquilamos ni compartimos tu información personal con terceros sin tu consentimiento, salvo cuando sea necesario para cumplir con la ley o en situaciones excepcionales, como con proveedores de servicios de pago o servidores en la nube.</p>
+        <h1 className="policyconditions-title">3. Sharing Your Information</h1>
+        <p className="policyconditions-p">We do not sell, rent, or share your personal information with third parties without your consent, except when necessary to comply with the law or in exceptional circumstances, such as with payment service providers or cloud servers.</p>
 
-        <h1 className="policyconditions-title">4. Seguridad</h1>
-        <p className="policyconditions-p">Tomamos medidas razonables para proteger tus datos personales contra accesos no autorizados, pérdida o alteración. Sin embargo, ten en cuenta que ningún sistema es completamente seguro.</p>
+        <h1 className="policyconditions-title">4. Security</h1>
+        <p className="policyconditions-p">We take reasonable measures to protect your personal data against unauthorized access, loss, or alteration. However, please note that no system is completely secure.</p>
 
-        <h1 className="policyconditions-title">5. Tus derechos</h1>
-        <p className="policyconditions-p">Tienes derecho a acceder, corregir o eliminar tus datos personales. Para hacer esto, por favor contacta con nosotros a través de:
+        <h1 className="policyconditions-title">5. Your Rights</h1>
+        <p className="policyconditions-p">You have the right to access, correct, or delete your personal data. To do so, please contact us at:
         <br />
         <br />
         subspaceemissary@SSBBcorporation.com.</p>
 
-        <h1 className="policyconditions-title">6. Cambios en esta política</h1>
-        <p className="policyconditions-p">Podemos actualizar esta Política de Privacidad de vez en cuando. Te notificaremos cualquier cambio importante a través de los medios disponibles en el videojuego.</p>
+        <h1 className="policyconditions-title">6. Changes to This Policy</h1>
+        <p className="policyconditions-p">We may update this Privacy Policy from time to time. We will notify you of any significant changes through the means available in the game.</p>
       </div>
 
       <div className="policyconditions-container" id="conditions">
-        <h1 className="policyconditions-title">Condiciones de Venta</h1>
-        <p className="policyconditions-p">Última actualización: 01-01-2025
+        <h1 className="policyconditions-title">Terms of Sale</h1>
+        <p className="policyconditions-p">Last updated: 01-01-2025
         <br />
         <br />
-        Estas Condiciones de Venta regulan la compra de productos, servicios o contenidos dentro del videojuego Super Smash Bros Brawl. Al realizar una compra, aceptas los términos y condiciones establecidos a continuación.</p>
+        These Terms of Sale govern the purchase of products, services, or content within the Super Smash Bros Brawl video game. By making a purchase, you agree to the terms and conditions set forth below.</p>
 
-        <h1 className="policyconditions-title">1. Productos y precios</h1>
-        <p className="policyconditions-p">Los productos y contenidos del videojuego están sujetos a disponibilidad. Los precios pueden variar y están sujetos a cambios sin previo aviso. El precio final será el que se muestre en el momento de la compra.</p>
+        <h1 className="policyconditions-title">1. Products and Prices</h1>
+        <p className="policyconditions-p">The products and content of the game are subject to availability. Prices may vary and are subject to change without prior notice. The final price will be the one displayed at the time of purchase.</p>
 
-        <h1 className="policyconditions-title">2. Métodos de pago</h1>
-        <p className="policyconditions-p">Aceptamos una variedad de métodos de pago, que incluyen tarjetas de crédito/débito, PayPal y otros sistemas de pago electrónicos. Todos los pagos se procesan a través de plataformas seguras.</p>
+        <h1 className="policyconditions-title">2. Payment Methods</h1>
+        <p className="policyconditions-p">We accept a variety of payment methods, including credit/debit cards, PayPal, and other electronic payment systems. All payments are processed through secure platforms.</p>
 
-        <h1 className="policyconditions-title">3. Entrega de productos digitales</h1>
-        <p className="policyconditions-p">Una vez realizada la compra, los productos digitales, como contenido descargable (DLC), skins, monedas virtuales o suscripciones, estarán disponibles para su descarga o uso inmediato dentro del videojuego.</p>
+        <h1 className="policyconditions-title">3. Delivery of Digital Products</h1>
+        <p className="policyconditions-p">Once a purchase is made, digital products, such as downloadable content (DLC), skins, virtual currencies, or subscriptions, will be available for immediate download or use within the game.</p>
 
-        <h1 className="policyconditions-title">4. Política de reembolsos</h1>
-        <p className="policyconditions-p">No se aceptan reembolsos una vez que se haya entregado el producto digital, salvo en casos donde el producto esté defectuoso o no se haya podido entregar por problemas técnicos.</p>
+        <h1 className="policyconditions-title">4. Refund Policy</h1>
+        <p className="policyconditions-p">No refunds will be accepted once a digital product has been delivered, except in cases where the product is defective or cannot be delivered due to technical issues.</p>
 
-        <h1 className="policyconditions-title">5. Propiedad intelectual</h1>
-        <p className="policyconditions-p">Todos los derechos de propiedad intelectual relacionados con Super Smash Bros Brawl y su contenido (incluidos pero no limitados a gráficos, música, códigos y personajes) son propiedad de Super Smash Bros Brawl Company. Está prohibido el uso no autorizado de cualquier contenido del videojuego.</p>
+        <h1 className="policyconditions-title">5. Intellectual Property</h1>
+        <p className="policyconditions-p">All intellectual property rights related to Super Smash Bros Brawl and its content (including but not limited to graphics, music, codes, and characters) are the property of Super Smash Bros Brawl Company. Unauthorized use of any game content is prohibited.</p>
 
-        <h1 className="policyconditions-title">6. Modificaciones</h1>
-        <p className="policyconditions-p">Nos reservamos el derecho de modificar, suspender o eliminar cualquier parte de los productos o servicios ofrecidos sin previo aviso. Esto incluye cambios en las características, precios o disponibilidad de los contenidos.</p>
+        <h1 className="policyconditions-title">6. Modifications</h1>
+        <p className="policyconditions-p">We reserve the right to modify, suspend, or terminate any part of the products or services offered without prior notice. This includes changes to features, prices, or availability of content.</p>
 
-        <h1 className="policyconditions-title">7. Responsabilidad</h1>
-        <p className="policyconditions-p">Super Smash Bros Brawl Company no será responsable por daños directos, indirectos o incidentales derivados del uso del videojuego, incluyendo pero no limitado a pérdidas de datos, acceso no autorizado o errores en el juego.</p>
+        <h1 className="policyconditions-title">7. Liability</h1>
+        <p className="policyconditions-p">Super Smash Bros Brawl Company will not be liable for direct, indirect, or incidental damages arising from the use of the game, including but not limited to data loss, unauthorized access, or game errors.</p>
 
-        <h1 className="policyconditions-title">8. Ley aplicable</h1>
-        <p className="policyconditions-p">Estas Condiciones de Venta se regirán por las leyes del país en el que se encuentra la sede de Super Smash Bros Brawl Company, y cualquier disputa relacionada con las compras en el videojuego estará sujeta a la jurisdicción de los tribunales de dicha localidad.</p>
+        <h1 className="policyconditions-title">8. Governing Law</h1>
+        <p className="policyconditions-p">These Terms of Sale will be governed by the laws of the country where Super Smash Bros Brawl Company is headquartered, and any disputes related to purchases in the game will be subject to the jurisdiction of the courts of that locality.</p>
       </div>
       <Footer />
     </>

@@ -31,34 +31,34 @@ function Home() {
       <img className="home-main-logo" src="/images/misc/SSBBGameLogo.png" />
       <div className="home-paragraph-main">
         <p className="home-paragraph" >
-          Super Smash Bros. Brawl es un juego de lucha desarrollado por Nintendo para la consola Wii, lanzado en 2008. Es la tercera entrega de la icónica serie Super Smash Bros., y marcó un hito al incorporar personajes de franquicias ajenas a Nintendo, como Solid Snake de Metal Gear y Sonic de Sonic the Hedgehog, llevando la serie a un público aún más amplio.
+        Super Smash Bros. Brawl is a fighting game developed by Nintendo for the Wii console, released in 2008. It is the third installment in the iconic Super Smash Bros. series, and marked a milestone by incorporating characters from franchises outside of Nintendo, such as Solid Snake from Metal Gear and Sonic from Sonic the Hedgehog, bringing the series to an even wider audience.
         </p>
         <p className="home-paragraph">
-          El juego mantiene la premisa central de la serie: en lugar de reducir la barra de vida de tus oponentes, el objetivo es expulsarlos fuera de la pantalla. Esto se logra a través de una jugabilidad dinámica y rápida, que combina elementos de plataformas con lucha tradicional. Los jugadores controlan una variedad de personajes, cada uno con habilidades únicas, y luchan en escenarios interactivos que varían desde áreas simples hasta complejos escenarios con múltiples plataformas y obstáculos.
+        The game maintains the central premise of the series: instead of reducing your opponents' health bars, the goal is to knock them off the screen. This is achieved through dynamic and fast-paced gameplay that combines platforming elements with traditional fighting. Players control a variety of characters, each with unique abilities, and fight in interactive stages that range from simple areas to complex scenarios with multiple platforms and obstacles.
         </p>
         <p className="home-paragraph">
-          Personajes y Contenido: Brawl amplió enormemente la lista de personajes jugables, con un total de 39 personajes, muchos de los cuales fueron pedidos por los fanáticos. Entre las adiciones más notables están Solid Snake, el espía y protagonista de Metal Gear, Sonic, el erizo de Sega, y Wario, el anti-héroe de Mario. La selección de personajes también incluye a clásicos como Mario, Link, Samus, Pikachu y muchos otros, así como una serie de personajes ocultos que pueden ser desbloqueados al cumplir ciertos requisitos.
+        Characters and Content: Brawl greatly expanded the list of playable characters, with a total of 39 characters, many of which were requested by fans. Notable additions include Solid Snake, the spy and protagonist of Metal Gear, Sonic, the hedgehog from Sega, and Wario, the anti-hero of Mario. The character selection also includes classics like Mario, Link, Samus, Pikachu, and many others, as well as a series of hidden characters that can be unlocked by completing certain requirements.
         </p>
         <p className="home-paragraph">
-          Modos de Juego: Además del clásico modo multijugador, Brawl introdujo un modo de historia llamado El emisario subespacial, que combinaba la acción de lucha con secuencias cinemáticas. Este modo sigue una trama donde los personajes deben unirse para salvar el universo de un malvado villano conocido como Tabuu. El modo se caracteriza por su estilo de juego beat 'em up de desplazamiento lateral, en el que los jugadores deben avanzar a través de distintos niveles luchando contra hordas de enemigos.
+        Game Modes: In addition to the classic multiplayer mode, Brawl introduced a story mode called The Subspace Emissary, which combined fighting action with cinematic sequences. This mode follows a plot where the characters must join forces to save the universe from an evil villain known as Tabuu. The mode is characterized by its side-scrolling beat 'em up gameplay, where players must advance through different levels fighting against hordes of enemies.
         </p>
         <p className="home-paragraph">
-          En cuanto al multijugador, el juego soporta partidas de hasta cuatro jugadores simultáneos en una misma consola, y por primera vez en la serie, Super Smash Bros. Brawl incluyó un modo online, permitiendo a los jugadores competir entre sí a través de la conexión Wi-Fi de Nintendo. A pesar de que el modo online no fue perfecto debido a algunas limitaciones de la infraestructura de la Wii, fue una característica revolucionaria para su tiempo.
+        As for multiplayer, the game supports matches of up to four players simultaneously on the same console, and for the first time in the series, Super Smash Bros. Brawl included an online mode, allowing players to compete against each other through Nintendo's Wi-Fi connection. Although the online mode was not perfect due to some limitations of the Wii's infrastructure, it was a revolutionary feature for its time.
         </p>
         <p className="home-paragraph">
-          Gráficos y Banda Sonora: Brawl utilizó los gráficos en 3D para representar a los personajes y escenarios, lo que le dio una sensación más moderna y vibrante en comparación con sus predecesores.
+        Graphics and Soundtrack: Brawl used 3D graphics to represent characters and stages, giving it a more modern and vibrant feel compared to its predecessors.
         </p>
         <p className='home-paragraph'>
-        Además, el juego cuenta con una de las bandas sonoras más celebradas de la serie, con más de 200 pistas que incluyen temas de una amplia gama de franquicias de Nintendo, así como música original creada para el juego. La banda sonora fue compuesta por 38 músicos de renombre, y muchos de los temas están diseñados para evocar nostalgia en los fanáticos de las distintas sagas representadas.
+        Additionally, the game features one of the most celebrated soundtracks in the series, with over 200 tracks that include themes from a wide range of Nintendo franchises, as well as original music created for the game. The soundtrack was composed by 38 renowned musicians, and many of the themes are designed to evoke nostalgia in fans of the different sagas represented.
         </p>
         <p className="home-paragraph">
-          Legado: Super Smash Bros. Brawl recibió críticas muy positivas por su jugabilidad accesible pero profunda, sus personajes y su innovador enfoque multijugador. Aunque algunos aspectos, como los tiempos de carga y los controles de los personajes, fueron objeto de críticas, el juego sigue siendo considerado uno de los mejores de su género y un referente para los juegos de lucha.
+        Legacy: Super Smash Bros. Brawl received very positive reviews for its accessible yet deep gameplay, its characters, and its innovative multiplayer approach. Although some aspects, such as loading times and character controls, were criticized, the game is still considered one of the best in its genre and a reference for fighting games.
         </p>
         <p className="home-paragraph">
-          El juego fue un éxito comercial, con más de 13 millones de copias vendidas en todo el mundo, y sigue siendo un título de culto entre los jugadores. Fue incluido en numerosas listas de los mejores videojuegos de todos los tiempos, y en 2010 fue incluido en el libro 1001 videojuegos a los que hay que jugar antes de morir.
+        The game was a commercial success, with over 13 million copies sold worldwide, and remains a cult classic among players. It was included in numerous lists of the greatest video games of all time, and in 2010 was included in the book 1001 Video Games You Must Play Before You Die.
         </p>
         <p className="home-paragraph">
-          Super Smash Bros. Brawl no solo es uno de los juegos de lucha más destacados de la historia, sino que también marcó una evolución importante en la manera en que se conciben los videojuegos de lucha en consolas caseras. Con su extenso elenco de personajes, escenarios interactivos y un modo de historia único, el juego sigue siendo una experiencia única para los fanáticos de los videojuegos.
+        Super Smash Bros. Brawl is not only one of the most notable fighting games in history, but it also marked an important evolution in the way fighting games are conceived for home consoles. With its extensive cast of characters, interactive stages, and a unique story mode, the game remains a unique experience for video game fans.
         </p >
       </div>
       <Footer />

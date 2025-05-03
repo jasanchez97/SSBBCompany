@@ -13,9 +13,9 @@ function Gallery() {
     setPersonajesList(personajes);
   }, [personajes]);
 
-  const personajesNormales = personajesList.filter(personaje => personaje.categoria === 'Iniciales');
-  const personajesDesbloqueables = personajesList.filter(personaje => personaje.categoria === 'Desbloqueables');
-  const jefes = personajesList.filter(personaje => personaje.categoria === 'Jefes');
+  const personajesNormales = personajesList.filter(personaje => personaje.categoria === 'Starters');
+  const personajesDesbloqueables = personajesList.filter(personaje => personaje.categoria === 'Unlockables');
+  const jefes = personajesList.filter(personaje => personaje.categoria === 'Bosses');
 
   const [categoria, setCategoria] = useState('');
   const [escenariosFiltrados, setEscenariosFiltrados] = useState(escenarios);
@@ -35,7 +35,7 @@ function Gallery() {
     <>
       <Header />
       <BackgroundVideo3 />
-      <h1 id="gallery-title">Personajes</h1>
+      <h1 id="gallery-title">Characters</h1>
       <div className="gallery-grid-container" id="characters">
         {personajesNormales.map((personaje) => (
           <div className="gallery-card" key={personaje.nombre}>
@@ -44,8 +44,8 @@ function Gallery() {
           </div>
         ))}
       </div>
-      <h1 className="gallery-grid-container-title">Personajes Desbloqueables</h1>
-      <div className="gallery-grid-container" id="unlocked-characters">
+      <h1 className="gallery-grid-container-title">Unlockable characters</h1>
+      <div className="gallery-grid-container" id="unlockedcharacters">
         {personajesDesbloqueables.map((personaje) => (
           <div className="gallery-card" key={personaje.nombre}>
             <h2>{personaje.nombre}</h2>
@@ -53,7 +53,7 @@ function Gallery() {
           </div>
         ))}
       </div>
-      <h1 className="gallery-grid-container-title">Jefes</h1>
+      <h1 className="gallery-grid-container-title">Bosses</h1>
       <div className="gallery-grid-container" id="bosses">
         {jefes.map((personaje) => (
           <div className="gallery-card" key={personaje.nombre}>
@@ -62,7 +62,7 @@ function Gallery() {
           </div>
         ))}
       </div>
-      <h1 className="gallery-grid-container-title">Escenarios</h1>
+      <h1 className="gallery-grid-container-title">Scenarios</h1>
       <div className="gallery-grid-container">
         {escenarios.map((escenario) => (
           <div className="gallery-card" id="scenarios" key={escenario.nombre}>

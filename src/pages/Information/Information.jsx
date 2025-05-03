@@ -22,41 +22,41 @@ function Information() {
       <Header />
       <div>
         <h1 className="information-title">Desarrollo a lo largo de la historia</h1>
-        <p className="information-paragraph">Super Smash Bros Brawl es un videojuego de lucha distribuido por Nintendo para la videoconsola Wii. Como la tercera entrega de la serie Super Smash Bros, la lista de personajes de Brawl se expande con respecto a la de su predecesor Super Smash Bros Melee.</p>
+        <p className="information-paragraph">Super Smash Bros. Brawl is a fighting video game distributed by Nintendo for the Wii console. As the third installment in the Super Smash Bros. series, Brawl's character list expands on that of its predecessor, Super Smash Bros. Melee.</p>
 
-        <p className="information-paragraph">Es el primer juego dentro de la serie en presentar personajes de franquicias externas a Nintendo, con la inclusión de Solid Snake de la serie Metal Gear de Konami, y Sonic de la serie Sonic the Hedgehog de Sega.</p>
+        <p className="information-paragraph">It is the first game in the series to feature characters from franchises outside of Nintendo, with the inclusion of Solid Snake from the Metal Gear series by Konami, and Sonic from the Sonic the Hedgehog series by Sega.</p>
 
-        <p className="information-paragraph">Brawl fue anunciado personalmente en una conferencia de prensa anterior al E3 respectivo de 2004 por el director ejecutivo en jefe Satoru Iwata. Posteriormente en esa misma noche, se le propuso al director de los dos juegos de la serie Super Smash Bros. previamente lanzados, Masahiro Sakurai, que fuera el director del tercer título.</p>
+        <p className="information-paragraph">Brawl was announced personally by Nintendo's president Satoru Iwata in a pre-E3 2004 press conference. Later that night, Masahiro Sakurai, the director of the previous two Super Smash Bros. games, was proposed to direct the third title.</p>
 
-        <p className="information-paragraph">Este último aceptó el cargo. En octubre de 2005, cuando comenzó el desarrollo del juego, Nintendo ya había pedido la ayuda de varios desarrolladores externos para que trabajaran en una oficina en Tokio exclusiva para el desarrollo de Brawl.</p>
+        <p className="information-paragraph">He accepted the position. In October 2005, when development of the game began, Nintendo had already enlisted the help of several external developers to work on a Tokyo office dedicated to the development of Brawl.</p>
 
-        <p className="information-paragraph">El desarrollo del juego comenzó en octubre de 2005 con un equipo que incluyó a miembros de Nintendo y de algunas third party. Después de varios retrasos por problemas técnicos, el juego fue finalmente lanzado en Japón el 31 de enero de 2008.</p>
+        <p className="information-paragraph">Development of the game began in October 2005 with a team that included members from Nintendo and several third-party developers. After several delays due to technical issues, the game was finally released in Japan on January 31, 2008.</p>
 
-        <p className="information-paragraph">El 9 de marzo de 2008 en Norteamérica, el 26 de junio de 2008 en Australia y el 27 de junio de 2008 en Europa. Veintisiete meses después del lanzamiento japonés, el juego fue lanzado en Corea del Sur, el 29 de abril de 2010.</p>
+        <p className="information-paragraph">It was later released in North America on March 9, 2008, in Australia on June 26, 2008, and in Europe on June 27, 2008. Twenty-seven months after its Japanese release, the game was released in South Korea on April 29, 2010.</p>
 
-        <p className="information-paragraph">Como sus predecesores, el objetivo de Brawl es expulsar al oponente fuera de la pantalla. Es un punto de partida de los tradicionales juegos de lucha, en particular en sus simplificados comandos para mover al jugador.</p>
+        <p className="information-paragraph">Like its predecessors, the objective of Brawl is to knock the opponent off the screen. It is a departure from traditional fighting games, particularly in its simplified controls for moving the player.</p>
 
-        <p className="information-paragraph">Y el énfasis en tener que expulsar al contrincante del escenario en contra del formato clásico en este tipo de juegos: tener que vaciar la barra de energía del enemigo.</p>
+        <p className="information-paragraph">And the emphasis on having to knock the opponent off the stage, rather than the traditional format of having to empty the opponent's energy bar.</p>
 
-        <p className="information-paragraph">Incluye un modo de un jugador más extenso que sus predecesores, conocido como El emisario subespacial. Este modo es un beat 'em up de scroll horizontal.</p>
+        <p className="information-paragraph">It includes a more extensive single-player mode than its predecessors, known as The Subspace Emissary. This mode is a side-scrolling beat 'em up.</p>
 
-        <p className="information-paragraph">Que incluye escenas cinematográficas hechas por ordenador que protagonizan los personajes del juego. Brawl también incluye batallas multijugador de hasta cuatro jugadores.</p>
+        <p className="information-paragraph">That includes computer-generated cinematic scenes featuring the game's characters. Brawl also includes multiplayer battles for up to four players.</p>
 
-        <p className="information-paragraph">Y es el primer juego de la franquicia en hacer uso de la Conexión Wi-Fi de Nintendo. El juego admite hasta cuatro mandos distintos.</p>
+        <p className="information-paragraph">And is the first game in the franchise to make use of Nintendo's Wi-Fi Connection. The game supports up to four different controllers.</p>
 
-        <p className="information-paragraph">Que son el mando de Wii con el Nunchuk, el mando de Wii individual, el mando clásico y el mando de GameCube. Super Smash Bros. Brawl recibió de forma general críticas positivas.</p>
+        <p className="information-paragraph">Which are the Wii Remote with Nunchuk, the Wii Remote alone, the Classic Controller, and the GameCube controller. Super Smash Bros. Brawl received generally positive reviews.</p>
 
-        <p className="information-paragraph">Recibiendo elogios respecto a su capacidad para entretener, a pesar de las críticas relativas a sus tiempos de carga. Las melodías del juego, que fueron compuestas gracias a 38 compositores especializados en videojuegos.</p>
+        <p className="information-paragraph">Receiving praise for its ability to entertain, despite criticism of its loading times. The game's music, which was composed by 38 video game composers.</p>
 
-        <p className="information-paragraph">Fueron elogiadas por su representación de distintas generaciones en la historia de los videojuegos. Recibió una calificación de un 93% en Metacritic y de un 92.75% en Game Rankings.</p>
+        <p className="information-paragraph">Was praised for its representation of different generations in the history of video games. It received a score of 93% on Metacritic and 92.75% on Game Rankings.</p>
 
-        <p className="information-paragraph">Brawl fue calificado como el «Mejor videojuego de lucha del año» en 2008 por la Academy of Interactive Arts & Sciences. En 2010, el juego fue incluido como uno de los títulos del libro 1001 videojuegos a los que hay que jugar antes de morir.</p>
+        <p className="information-paragraph">Brawl was awarded "Best Fighting Game of the Year" in 2008 by the Academy of Interactive Arts & Sciences. In 2010, the game was included as one of the titles in the book 1001 Video Games You Must Play Before You Die..</p>
 
-        <p className="information-paragraph">Y también se considera uno de los mejores videojuegos jamás creados. A partir de 2023, es el octavo juego de Wii más vendido de todos los tiempos.</p>
+        <p className="information-paragraph">And is also considered one of the best video games ever created. As of 2023, it is the eighth best-selling Wii game of all time.</p>
 
-        <p className="information-paragraph">Con más de 13 millones de copias vendidas en todo el mundo. Le siguió Super Smash Bros. para Nintendo 3DS y Wii U en 2014.</p>
+        <p className="information-paragraph">With over 13 million copies sold worldwide. It was followed by Super Smash Bros. for Nintendo 3DS and Wii U in 2014.</p>
 
-        <a onClick={() => handleButtonClick("/registerproducts")} className="information-button">Registros de copias vendidas</a>
+        <a onClick={() => handleButtonClick("/registerproducts")} className="information-button">Sales Records</a>
       </div>
       <Footer />
     </>

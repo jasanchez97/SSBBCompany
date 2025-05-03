@@ -30,9 +30,9 @@ function Header() {
     <div className="header-main">
       <img className="header-logo" onMouseEnter={handleMouseEnter} onMouseOut={handleMouseOut} src={smashLogo} id="header-logo" alt="Smash Logo" />
       <div className="header-buttons">
-        <a onClick={() => handleButtonClick("/home")} className="header-button">Inicio</a>
-        <a onClick={() => handleButtonClick("/information")} className="header-button">Información</a>
-        <a onClick={() => handleButtonClick("/gallery")} className="header-button">Galería</a>
+        <a onClick={() => handleButtonClick("/home")} className="header-button">Home</a>
+        <a onClick={() => handleButtonClick("/information")} className="header-button">Information</a>
+        <a onClick={() => handleButtonClick("/gallery")} className="header-button">Gallery</a>
       </div>
     </div>
   );
