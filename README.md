@@ -68,6 +68,7 @@ JavaScript
 
 --- Contact ---
 
-    Juan Antonio Sánchez Martel - @TutitoZilean - ja.sanchezmartel@gmail.com
+    Juan Antonio Sánchez Martel - jasanchez97 - juanantoniosanchezmartel@alumno.ieselrincon.es
+    Xiomara Jiménez Velázquez - xiomi94 - xiomarajimenezvelazquez@alumno.ieselrincon.es
 
     projectlink: https://github.com/jasanchez97/reactproject.git
